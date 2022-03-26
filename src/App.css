@@ -1,0 +1,56 @@
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+nav{
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(169, 240, 216);
+  
+}
+a{
+  padding: 10px;
+ margin:  40px;
+ text-decoration: none;
+ color: #000;
+}
+
+h4{
+  text-align: center;
+}
+.Hero{
+  margin: 50px;
+}
+.numberFormat{
+  text-align: center;
+
+}
+input{
+  padding: 5px;
+  margin: 20px;
+}
+
+button{
+  padding: 5px;
+
+}
+.Area{
+  padding: 30px 100px;
+  background-color: antiquewhite;
+  margin:  30px 100px;
+}
+
+.Citizen{
+  padding: 30px 100px;
+  background-color: rgb(220, 198, 226);
+  margin:  30px 100px;
+}
